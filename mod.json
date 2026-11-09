@@ -1,0 +1,10 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "win": "2.2081"
+  },
+  "version": "v0.1.2",
+  "id": "polerok.geode-mods-action",
+  "name": "Geode Mods Action",
+  "developer": "Polerok"
+}
